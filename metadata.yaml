@@ -1,0 +1,26 @@
+_repo: Making-a-Lawn_27066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doogue, Luke Joseph
+    birthdate: 1865
+    gutenberg_agent_id: '32428'
+    url: http://www.gutenberg.org/2009/agents/32428
+description: ''
+gutenberg_issued: '2008-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27066'
+  lccn: '12035528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawns'
+- !lcc 'SB'
+title: Making a Lawn
+url: http://www.gutenberg.org/ebooks/27066
